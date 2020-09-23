@@ -1,1 +1,1 @@
-# WebShopScraping
+# Java OOP projects
