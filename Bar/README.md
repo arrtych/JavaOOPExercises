@@ -18,7 +18,7 @@ Technologies:  Java, GSON library and TheCocktailDB API (https://www.thecocktail
     - by some other attribute
 - an overview of the drinks purchased
 
-**Drink**
+**Cocktail**
 - only the necessary information can be extracted:
  - the name of the drink
  - (alcoholic or non-alcoholic)
